@@ -1,4 +1,5 @@
 # galaxy-defenders-game
-<h1>Hola, Galaxy Defenders SERGIO GOMEZ holaaa</h1> 
-<p> Daniel Gamonal Álvaro Carrizo</p>
+<h1>Hola, Galaxy Defenders SERGIO GOMEZ hola </h1> 
+<p> Daniel Gamonal Álvaro Carrizo Daniel Amaral</p>
+
 
